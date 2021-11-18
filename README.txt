@@ -47,7 +47,12 @@ instructions on how to format the test file, it will show you if certain strings
 or not. You can compare your own results to what the program says.
 
 
+## Sources
 
+https://www.youtube.com/watch?v=jwtx6GVPdyw&ab_channel=Jos%C3%A9Vidal
+https://www.javatpoint.com/java-hashmap
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
 ----------
 This README template is using Markdown. To preview your README output, you can copy your file contents to a Markdown editor/previewer such as [https://stackedit.io/editor](https://stackedit.io/editor).
 
