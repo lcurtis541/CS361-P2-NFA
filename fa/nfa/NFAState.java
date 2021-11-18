@@ -4,6 +4,11 @@ import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
+/**
+ * This class represent a NFA state.
+ * @author Landon and Daniel
+ *
+ */
 public class NFAState extends fa.State{
     
     // For storing transition at each character

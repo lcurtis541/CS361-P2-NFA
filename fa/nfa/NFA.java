@@ -9,6 +9,12 @@ import java.util.Set;
 import fa.State;
 import fa.dfa.DFA;
 
+/**
+ * This class simulates a Non Deterministic Finite Autonoma
+ * 
+ * @author Landon and Daniel
+ *
+ */
 public class NFA implements fa.nfa.NFAInterface {
 
     private NFAState startState;
@@ -38,6 +44,11 @@ public class NFA implements fa.nfa.NFAInterface {
         }
     }
 
+    /**
+     * Gets the current state of the machine
+     * @param name
+     * @return
+     */
     private NFAState getState(String name) {
 
         NFAState state = null; // State to be returned after been found.
